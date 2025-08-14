@@ -10,7 +10,8 @@ namespace Lab07DIPViolation.HighLevel
     enum LoggerType
     {
         File,
-        WindowsEvent
+        WindowsEvent,
+        AzureLogger
     }
     internal class TaxCalculator
     {
@@ -43,6 +44,7 @@ namespace Lab07DIPViolation.HighLevel
                     var winEvent = new MyWindowsEventLogger();
                     winEvent.Log(ex);
                 }
+
             }
             return result;
         }

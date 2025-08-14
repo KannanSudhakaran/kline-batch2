@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab07DIPViolation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab07dipviolation\\lab07dipviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|solutionrelative:lab07dipviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab07dipviolation\\lab07dipviolation\\highlevel\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|solutionrelative:lab07dipviolation\\highlevel\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab07dipviolation\\lab07dipviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|solutionrelative:lab07dipviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6844B132-70AE-4AB9-B41A-AD967CADB88E}|Lab07DIPViolation\\Lab07DIPViolation.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab07dipviolation\\lab07dipviolation\\lowlevel\\mywindowseventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaxCalculator.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab07DIPViolation\\Lab07DIPViolation\\HighLevel\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "Lab07DIPViolation\\HighLevel\\TaxCalculator.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab07DIPViolation\\Lab07DIPViolation\\HighLevel\\TaxCalculator.cs",
               "RelativeToolTip": "Lab07DIPViolation\\HighLevel\\TaxCalculator.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T05:51:38.835Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Lab07DIPViolation\\LowLevel\\MyFileEventLogger.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T05:47:44.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T05:47:44.501Z"
             },
             {
               "$type": "Document",
@@ -76,18 +75,17 @@
               "RelativeToolTip": "Lab07DIPViolation\\LowLevel\\MyWindowsEventLogger.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T05:47:29.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T05:47:29.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab07DIPViolation\\Lab07DIPViolation\\Program.cs",
               "RelativeDocumentMoniker": "Lab07DIPViolation\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab07DIPViolation\\Lab07DIPViolation\\Program.cs",
               "RelativeToolTip": "Lab07DIPViolation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T05:40:31.775Z",
               "EditorCaption": ""
