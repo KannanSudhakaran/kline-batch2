@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab01razorpageapp\\lab01razorpageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|solutionrelative:lab01razorpageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab01razorpageapp\\lab01razorpageapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|solutionrelative:lab01razorpageapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab01razorpageapp\\lab01razorpageapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|solutionrelative:lab01razorpageapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab01razorpageapp\\lab01razorpageapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|solutionrelative:lab01razorpageapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab01razorpageapp\\lab01razorpageapp\\lab01razorpageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE4448A5-723C-45A0-A805-D6E6C1367118}|Lab01RazorPageApp\\Lab01RazorPageApp.csproj|solutionrelative:lab01razorpageapp\\lab01razorpageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab01RazorPageApp\\appsettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\appsettings.json",
+              "RelativeToolTip": "Lab01RazorPageApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T02:57:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab01RazorPageApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Lab01RazorPageApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T02:56:27.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lab01RazorPageApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Lab01RazorPageApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T02:56:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab01RazorPageApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Lab01RazorPageApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T02:51:20.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab01RazorPageApp",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Lab01RazorPageApp.csproj",
+              "RelativeDocumentMoniker": "Lab01RazorPageApp\\Lab01RazorPageApp.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab01RazorPageApp\\Lab01RazorPageApp\\Lab01RazorPageApp.csproj",
+              "RelativeToolTip": "Lab01RazorPageApp\\Lab01RazorPageApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T02:45:11.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
