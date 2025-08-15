@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<ICustomerService, CustomerInMemoryService>();
+builder.Services.AddSingleton<ICustomerService, CustomerInMemoryService>();
 
 var app = builder.Build();
 

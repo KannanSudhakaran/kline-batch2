@@ -11,10 +11,27 @@ namespace Lab04WebApi.Services
             new Customer { Id = 3, FirstName = "Alice", LastName = "Johnson" }
         };
 
+        public CustomerInMemoryService()
+        {
+            Console.WriteLine("service created");
+            // Initialize with some default customers
+        }
+
+        public void AddCustomer(Customer customer)
+        {
+            customer.Id = _customers.Max(c => c.Id) + 1;
+            _customers.Add(customer);
+
+        }
+
         public List<Customer> GetAllCustomers()
         {
             return _customers;
         }
 
+        public Customer GetCustomerByid(int customerId)
+        {
+            return _customers.FirstOrDefault(c => c.Id == customerId);
+        }
     }
 }
