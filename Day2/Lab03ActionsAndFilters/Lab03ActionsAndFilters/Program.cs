@@ -1,6 +1,9 @@
+using Lab03ActionsAndFilters.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IDataService,DataService>();
 var app = builder.Build();
 
 
