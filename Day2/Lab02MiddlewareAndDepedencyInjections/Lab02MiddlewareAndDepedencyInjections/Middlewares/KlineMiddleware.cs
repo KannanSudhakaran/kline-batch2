@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Lab02MiddlewareAndDepedencyInjections.Services;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Threading.Tasks;
@@ -15,10 +16,11 @@ namespace Lab02MiddlewareAndDepedencyInjections.Middlewares
             _nextMiddleWare = next;
         }
 
-        public async Task Invoke(HttpContext httpContext)
+        public async Task Invoke(HttpContext httpContext,IEmailService emailService)
         {
             //pre
             Console.WriteLine("preprocessing of Kline");
+            await emailService.SendEmailAsync("middleware@admin", "middleware");
            await  _nextMiddleWare(httpContext);
             //post
             Console.WriteLine("postprocessing of Kline");

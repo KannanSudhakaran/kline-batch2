@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\middlewares\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\middlewares\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\extensions\\myappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\extensions\\myappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\middlewares\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\middlewares\\klinemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\services\\amazonses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\services\\amazonses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day2\\lab02middlewareanddepedencyinjections\\lab02middlewareanddepedencyinjections\\extensions\\myappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0331BA1-B475-4FB2-A56B-D762F98A57BF}|Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj|solutionrelative:lab02middlewareanddepedencyinjections\\extensions\\myappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +54,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:11:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmazonSES.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Services\\AmazonSES.cs",
+              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Services\\AmazonSES.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Services\\AmazonSES.cs",
+              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Services\\AmazonSES.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:48:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:47:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KlineMiddleware.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Middlewares\\KlineMiddleware.cs",
               "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Middlewares\\KlineMiddleware.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Middlewares\\KlineMiddleware.cs",
               "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Middlewares\\KlineMiddleware.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T03:30:53.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Lab02MiddlewareAndDepedencyInjections.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
+              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
+              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T03:19:30.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Program.cs",
+              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:11:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MyAppExtensions.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Extensions\\MyAppExtensions.cs",
               "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Extensions\\MyAppExtensions.cs",
@@ -63,34 +140,7 @@
               "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Extensions\\MyAppExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T03:26:08.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lab02MiddlewareAndDepedencyInjections",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
-              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
-              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-15T03:19:30.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Program.cs",
-              "RelativeDocumentMoniker": "Lab02MiddlewareAndDepedencyInjections\\Program.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day2\\Lab02MiddlewareAndDepedencyInjections\\Lab02MiddlewareAndDepedencyInjections\\Program.cs",
-              "RelativeToolTip": "Lab02MiddlewareAndDepedencyInjections\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T03:11:31.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T03:26:08.548Z"
             }
           ]
         }
