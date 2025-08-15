@@ -1,15 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Lab03ActionsAndFilters.Filters;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Lab03ActionsAndFilters.Controllers
 {
     class MyKlineNeedBugFixAttribute : Attribute { }
 
     [MyKlineNeedBugFix]
-   
+
+    [MyLoggerActionFilter]
+    
     public class HomeController : Controller
     {
         public IActionResult Index()
         {
+            Console.WriteLine("inside index");
             return View();
         }
 
