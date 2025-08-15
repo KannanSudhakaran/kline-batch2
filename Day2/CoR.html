@@ -1,0 +1,39 @@
+<body>
+ <div id="window" onclick="fnWindow(event)">
+        <div id="panel" onclick="fnPanel(event)">
+            <div id="subpanel" onclick="fnsubpanel(event)">
+                <button id="myButton" onclick="fnButton(event)">Click me!</button>
+            </div>
+        </div>
+    </div>
+
+ <script>
+  function fnButton(e){
+           console.log(e);
+           e.companyName="Koenig";
+           console.log("fnButton");
+   }
+
+   function fnsubpanel(e){
+                         console.log("fnsubpanel");
+                       if(e.companyName != "Kline"){
+                          e.stopPropagation()
+                         }
+                   
+       
+    }
+   function fnPanel(e){
+    console.log("fnPanel");
+    console.log(e.companyName);
+
+  }
+  function fnWindow(e){
+
+    console.log("fnwindow");
+console.log(e.companyName);
+ 
+ }
+
+ </script>
+
+</body>

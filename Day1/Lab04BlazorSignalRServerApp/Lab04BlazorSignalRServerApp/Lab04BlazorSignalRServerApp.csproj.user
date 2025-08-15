@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\LiveSessionKoenig\KlineCustom02\kline-batch2\Day1\Lab04BlazorSignalRServerApp\Lab04BlazorSignalRServerApp\Properties\PublishProfiles\klinewebappkannan2025 - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
