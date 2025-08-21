@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|solutionrelative:lab02customerwebapi\\repository\\customerefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day3\\lab02customerwebapi\\lab02customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|solutionrelative:lab02customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day3\\lab02customerwebapi\\lab02customerwebapi\\repository\\customerinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|solutionrelative:lab02customerwebapi\\repository\\customerinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day3\\lab02customerwebapi\\lab02customerwebapi\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|solutionrelative:lab02customerwebapi\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day3\\lab02customerwebapi\\lab02customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|solutionrelative:lab02customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4541AC22-B6C2-402A-8A2D-431692A892C2}|Lab02CustomerWebAPI\\Lab02CustomerWebAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day3\\lab02customerwebapi\\lab02customerwebapi\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,41 +74,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerEFRepository.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
-              "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
-              "RelativeToolTip": "Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:24:29.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomerInMemoryRepository.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerInMemoryRepository.cs",
               "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Repository\\CustomerInMemoryRepository.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerInMemoryRepository.cs",
               "RelativeToolTip": "Lab02CustomerWebAPI\\Repository\\CustomerInMemoryRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAIA3wCcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T06:24:44.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Program.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Program.cs",
-              "RelativeToolTip": "Lab02CustomerWebAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:04:35.159Z",
               "EditorCaption": ""
             },
             {
@@ -117,24 +91,50 @@
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Controllers\\CustomerController.cs*",
-              "RelativeToolTip": "Lab02CustomerWebAPI\\Controllers\\CustomerController.cs*",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAYwG8AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Lab02CustomerWebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T06:38:27.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Repository\\ICustomerRepository.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\ICustomerRepository.cs",
               "RelativeToolTip": "Lab02CustomerWebAPI\\Repository\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T06:23:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerEFRepository.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
+              "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
+              "RelativeToolTip": "Lab02CustomerWebAPI\\Repository\\CustomerEFRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:24:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02CustomerWebAPI\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day3\\Lab02CustomerWebAPI\\Lab02CustomerWebAPI\\Program.cs",
+              "RelativeToolTip": "Lab02CustomerWebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:04:35.159Z",
               "EditorCaption": ""
             },
             {
