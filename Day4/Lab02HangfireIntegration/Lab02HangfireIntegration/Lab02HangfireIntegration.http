@@ -1,0 +1,6 @@
+@Lab02HangfireIntegration_HostAddress = http://localhost:5062
+
+GET {{Lab02HangfireIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
