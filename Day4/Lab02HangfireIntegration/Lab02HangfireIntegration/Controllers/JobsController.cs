@@ -58,7 +58,7 @@ namespace Lab02HangfireIntegration.Controllers
             string folder  = @"C:\LiveSessionKoenig\KlineCustom02\kline-batch2\Day4\downloads";
 
            
-            _jobClient.Enqueue<RssFeedJobs>(r=>r.SyncHtmlFilesAsync(jsonFile,folder,5));
+            _jobClient.Enqueue<RssFeedJobs>(r=>r.SyncHtmlFilesAsync(jsonFile,folder,1));
 
             return Ok("htmls are queued up");
         }

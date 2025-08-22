@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,41 +53,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RssFeedJobs.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
-              "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
-              "RelativeToolTip": "Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T05:40:48.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "JobsController.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Controllers\\JobsController.cs",
               "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Controllers\\JobsController.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Controllers\\JobsController.cs",
               "RelativeToolTip": "Lab02HangfireIntegration\\Controllers\\JobsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAiwDwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:46:37.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrintingJobs.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
-              "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
-              "RelativeToolTip": "Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:44:45.337Z",
               "EditorCaption": ""
             },
             {
@@ -100,8 +74,7 @@
               "RelativeToolTip": "Lab02HangfireIntegration\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:26:32.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:26:32.112Z"
             },
             {
               "$type": "Document",
@@ -113,21 +86,45 @@
               "RelativeToolTip": "Lab02HangfireIntegration\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-22T03:25:08.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:25:08.328Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lab02HangfireIntegration",
+              "Title": "Lab02HangfireIntegration.csproj",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Lab02HangfireIntegration.csproj",
               "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Lab02HangfireIntegration.csproj",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Lab02HangfireIntegration.csproj",
               "RelativeToolTip": "Lab02HangfireIntegration\\Lab02HangfireIntegration.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-22T03:24:26.876Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RssFeedJobs.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
+              "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
+              "RelativeToolTip": "Lab02HangfireIntegration\\Jobs\\RssFeedJobs.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T05:40:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintingJobs.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
+              "RelativeDocumentMoniker": "Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day4\\Lab02HangfireIntegration\\Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
+              "RelativeToolTip": "Lab02HangfireIntegration\\Jobs\\PrintingJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:44:45.337Z"
             },
             {
               "$type": "Document",
@@ -139,8 +136,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\kanna\\.nuget\\packages\\hangfire\\1.7.33\\readme.txt",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-22T03:23:58.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:23:58.577Z"
             }
           ]
         }
