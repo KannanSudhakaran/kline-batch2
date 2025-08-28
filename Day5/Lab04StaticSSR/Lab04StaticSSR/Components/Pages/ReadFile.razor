@@ -1,0 +1,46 @@
+﻿@page "/readfile"
+@attribute [StreamRendering]
+
+<h1>Read File</h1>
+<h2>@DateTime.Now.ToString()</h2>
+<buton class="btn btn-primary" @onclick="LoadFileDataAsync">LoadFile</buton>
+@if(fileData == string.Empty)
+{
+    <p><em>Loading...in next 3 seconds</em></p>
+}
+else
+{
+    <h3>@fileData</h3>
+}
+
+
+@code {
+    string fileData = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadFileDataAsync();
+    }
+
+    private async Task LoadFileDataAsync()
+    {
+        Console.WriteLine("Load File Data");
+
+        try
+        {
+            await Task.Delay(3000); // Simulate delay
+            var filePath = @"C:\LiveSessionKoenig\KlineCustom02\kline-batch2\Day5\hello.txt";
+            using(StreamReader sr = new StreamReader(filePath))
+            {
+                fileData = await sr.ReadToEndAsync();
+            }
+
+        
+        }
+        catch (Exception ex)
+        {
+            fileData = ex.Message;
+        }
+    }
+
+}

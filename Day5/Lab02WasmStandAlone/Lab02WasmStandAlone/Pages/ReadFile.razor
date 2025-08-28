@@ -1,0 +1,29 @@
+﻿@page "/readfile"
+
+<h1>Read File</h1>
+<h2>@DateTime.Now.ToString()</h2>
+<buton class="btn btn-primary" @onclick="LoadFileData">LoadFile</buton>
+<h3>@fileData</h3>
+@code {
+    string fileData = string.Empty;
+    private void LoadFileData()
+    {
+        Console.WriteLine("Load File Data");
+
+        try
+        {
+            var filePath = @"C:\LiveSessionKoenig\KlineCustom02\kline-batch2\Day5\hello.txt";
+            using(StreamReader sr = new StreamReader(filePath))
+            {
+                fileData = sr.ReadToEnd();
+            }
+
+        
+        }
+        catch (Exception ex)
+        {
+            fileData = ex.Message;
+        }
+    }
+
+}

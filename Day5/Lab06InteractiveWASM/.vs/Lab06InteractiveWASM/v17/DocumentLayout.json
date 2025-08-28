@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5098E47D-BF47-4365-96F0-F29C480CACDF}|Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab06interactivewasm\\lab06interactivewasm\\lab06interactivewasm.client\\lab06interactivewasm.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5C817F7-970F-44EF-9986-980F87A1D2AF}|Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj|solutionrelative:lab06interactivewasm\\lab06interactivewasm.client\\lab06interactivewasm.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadFile.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\ReadFile.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\ReadFile.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\ReadFile.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\ReadFile.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:05:34.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:04:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:04:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\App.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\App.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\App.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:04:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:03:25.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Program.cs",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:02:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab06InteractiveWASM",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T07:01:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\_Imports.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\_Imports.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:01:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T06:59:43.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Program.cs",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:59:20.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab06InteractiveWASM.Client",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj",
+              "RelativeDocumentMoniker": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab06InteractiveWASM\\Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj",
+              "RelativeToolTip": "Lab06InteractiveWASM\\Lab06InteractiveWASM.Client\\Lab06InteractiveWASM.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T06:58:57.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

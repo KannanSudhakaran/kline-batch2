@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab04blazorsignalrserverapp\\lab04blazorsignalrserverapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|solutionrelative:lab04blazorsignalrserverapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab04blazorsignalrserverapp\\lab04blazorsignalrserverapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|solutionrelative:lab04blazorsignalrserverapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|solutionrelative:lab04blazorsignalrserverapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab04blazorsignalrserverapp\\lab04blazorsignalrserverapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|solutionrelative:lab04blazorsignalrserverapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day1\\lab04blazorsignalrserverapp\\lab04blazorsignalrserverapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C22D7304-2A12-4676-BE07-7373648FBFC2}|Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp.csproj|solutionrelative:lab04blazorsignalrserverapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Properties\\launchSettings.json",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Pages\\Weather.razor",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Pages\\Error.razor",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Pages\\Home.razor",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Pages\\Counter.razor",
@@ -131,19 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Lab04BlazorSignalRServerApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T04:03:49.637Z"
+              "WhenOpened": "2025-08-14T04:03:49.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\Layout\\MainLayout.razor",
@@ -155,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day1\\Lab04BlazorSignalRServerApp\\Lab04BlazorSignalRServerApp\\Components\\App.razor",
               "RelativeDocumentMoniker": "Lab04BlazorSignalRServerApp\\Components\\App.razor",

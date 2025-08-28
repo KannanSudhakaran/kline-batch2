@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}|SampleAPI\\SampleAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\wasmapp\\pages\\dynamicweather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|solutionrelative:wasmapp\\pages\\dynamicweather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\wasmapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|solutionrelative:wasmapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\wasmapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|solutionrelative:wasmapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}|SampleAPI\\SampleAPI.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\wasmapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|solutionrelative:wasmapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab03cors\\wasmapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}|WasmApp\\WasmApp.csproj|solutionrelative:wasmapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:23:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SampleAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T04:12:05.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "WasmApp\\_Imports.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\_Imports.razor",
+              "RelativeToolTip": "WasmApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T04:11:27.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WasmApp\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "WasmApp\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:06:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WasmApp\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WasmApp\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T04:02:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicWeather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Pages\\DynamicWeather.razor",
+              "RelativeDocumentMoniker": "WasmApp\\Pages\\DynamicWeather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Pages\\DynamicWeather.razor",
+              "RelativeToolTip": "WasmApp\\Pages\\DynamicWeather.razor",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T04:01:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WasmApp\\Pages\\Weather.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab03CORS\\WasmApp\\Pages\\Weather.razor",
+              "RelativeToolTip": "WasmApp\\Pages\\Weather.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T04:01:16.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

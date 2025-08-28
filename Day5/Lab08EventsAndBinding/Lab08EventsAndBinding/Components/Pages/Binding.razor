@@ -1,0 +1,21 @@
+﻿@page "/binding"
+<h3>Binding</h3>
+
+<h4>Hello @firstName and your location @location</h4>
+<span>Firstname</span>
+<input type="text" @bind="firstName" />
+
+<span>Location</span>
+<input type="text"  value="@location" @oninput="OnLocationChangeHandler" />
+
+@code {
+    string firstName = "Ping Hui";
+    string location = "Singapore";
+
+    void OnLocationChangeHandler(ChangeEventArgs e)
+    {
+        Console.WriteLine(e.Value);
+        location = e.Value.ToString();
+
+    }
+}

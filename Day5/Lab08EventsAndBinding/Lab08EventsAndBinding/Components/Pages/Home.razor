@@ -1,0 +1,20 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>The current Rating you clicked is :@ratingMessage</h1>
+
+<Rating StarsCount="3" OnHover="DisplayCurrentRating" ></Rating>
+
+<Rating StarsCount="5" OnHover="DisplayCurrentRating"></Rating>
+
+<Rating StarsCount="3.5" OnHover="DisplayCurrentRating"></Rating>
+
+@code {
+    private string ratingMessage = string.Empty;
+        private void DisplayCurrentRating(double starsCount)
+        {
+           ratingMessage = $"The current Rating you clicked is : {starsCount}";
+            Console.WriteLine($"The current Rating you clicked is : {starsCount}");
+        }
+}

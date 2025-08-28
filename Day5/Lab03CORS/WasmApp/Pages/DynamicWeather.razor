@@ -1,0 +1,44 @@
+﻿@page "/dynamicweather"
+@inject HttpClient Http
+
+<h3>DynamicWeather</h3>
+
+<h3>@DateTime.Now.ToString()</h3>
+<button class="btn btn-primary" @onclick="FetchWeather">Fetch Weather</button>
+@if (forecasts != null)
+{
+   <table>
+       <thead>   
+        <tr>   
+            <th>Date</th>   
+            <th>Temp. (C)</th>   
+            <th>Temp. (F)</th>   
+            <th>Summary</th>   
+        </tr>   
+    </thead>   
+    <tbody>   
+        @foreach (var forecast in forecasts)   
+        {   
+            <tr>   
+                <td>@forecast.Date.ToShortDateString()</td>   
+                <td>@forecast.TemperatureC</td>   
+                <td>@forecast.TemperatureF</td>   
+                <td>@forecast.Summary</td>   
+            </tr>   
+        }   
+        </tbody>
+   </table>   
+ 
+}
+
+@code {
+
+    private List<WeatherForecast>? forecasts;
+    async Task FetchWeather()
+    {
+        // Logic to fetch weather data dynamically
+        Console.WriteLine("Fetching weather data...");
+        forecasts=await Http.GetFromJsonAsync<List<WeatherForecast>>("https://localhost:7256/Weatherforecast");
+    }
+
+}

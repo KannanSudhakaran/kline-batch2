@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAPI", "SampleAPI\SampleAPI.csproj", "{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasmApp", "WasmApp\WasmApp.csproj", "{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB75FDB4-CF65-4CD4-8FF0-DE44F4074435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBCBD73-07F6-42E3-B7CB-A146B92E68CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44E3FC0-855D-4A32-9638-F4DD86AABFA6}
+	EndGlobalSection
+EndGlobal

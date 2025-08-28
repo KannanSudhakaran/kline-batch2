@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto.client\\pages\\readfile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAF5E157-1D36-49D6-825A-D61AC1DDEEE9}|Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab07interactiveauto\\lab07interactiveauto\\lab07interactiveauto.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0B8B1A-2517-4B9C-97E9-037A741DE786}|Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Lab07InteractiveAuto.Client.csproj|solutionrelative:lab07interactiveauto\\lab07interactiveauto.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadFile.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\ReadFile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:34:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab07InteractiveAuto",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T07:28:51.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Routes.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Routes.razor",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:30:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:27:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:29:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:31:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\App.razor",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\App.razor",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto\\Components\\App.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:30:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab07InteractiveAuto\\Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Program.cs",
+              "RelativeToolTip": "Lab07InteractiveAuto\\Lab07InteractiveAuto.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:27:29.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
