@@ -1,0 +1,68 @@
+﻿@page "/product-list"
+@rendermode InteractiveServer
+
+
+
+<div class="container">
+    <h3>ProductList @filteredProducts.Count()  </h3>
+    <h2>@displayRating</h2>
+   
+    <input type="text" value="@searchTerm" @oninput="FilterProducts" 
+        placeholder="search" />
+
+    @if (products.Count > 0)
+    {
+        <table class="table">
+    <thead>
+        <tr class="text-primary">
+            <th scope="col">
+                <button type="button" 
+                    class="btn btn-primary mt-2" 
+                     @onclick="ToggleImageDisplay"   >
+                    Show Image
+                </button>
+            </th>
+            <th scope="col">Product</th>
+            <th scope="col">Code</th>
+            <th scope="col">Available</th>
+            <th scope="col">Price</th>
+            <th scope="col">5-Star Rating</th>
+        </tr>
+    </thead>
+    <tbody>
+
+                @foreach (var product in filteredProducts)
+                    {
+            <tr>
+                <td>
+                  @if(showImage){
+                        <img src="@product.ImageUrl" width="60px" height="60px" />
+                  }
+                  
+                </td>
+                            <td class="text-info font-weight-bold" style="cursor:pointer;">
+                                <span @onclick="()=>GotoToDetailsView(product)" >@product.ProductName</span>
+                            </td>
+                            <td>@product.ProductCode</td>
+                            <td>@product.ReleaseDate</td>
+                            <td>@product.Price</td>
+                            <td>
+                              <Rating OnHover="ShowRating" StarsCount="product.StarRating"/>
+
+                            </td>
+                        </tr>
+                    }
+    </tbody>
+
+
+
+</table>
+    
+    }
+
+</div>
+
+@code {
+
+  
+}

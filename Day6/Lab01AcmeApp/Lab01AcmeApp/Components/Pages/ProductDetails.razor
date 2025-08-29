@@ -1,0 +1,57 @@
+﻿@page "/product-details/{id:int}"
+@rendermode InteractiveServer
+
+
+<h3>ProductDetails @id</h3
+
+@if (product != null)
+{
+    
+     <table>
+             <tr>
+                                    <td>Name :</td>
+                                    <td>@product.ProductName</td>
+               </tr>
+                                <tr>
+                                    <td>Code :</td>
+                                    <td>@product.ProductCode</td>
+                                </tr>
+                                <tr>
+                                    <td>Description :</td>
+                                    <td>@product.Description</td>
+                                </tr>
+                                <tr>
+                                    <td>Availability :</td>
+                                    <td>@product.ReleaseDate</td>
+                                </tr>
+                                <tr>
+                                    <td>Price :</td>
+                                    <td>@product.Price</td>
+                                </tr>
+                                <tr>
+                                    <td>5 Star Rating :</td>
+                                    <td>
+                                           <Rating StarsCount="@product.StarRating" />
+                                    </td>
+                                </tr>
+                           
+                     
+                        <td align="center">
+                            <img src="@product.ImageUrl" width="200px" height="200px" />
+                        </td>
+
+
+        </table>
+
+        <div class="panel-footer">
+            <button type="button" class="btn btn-default" @onclick="BackToProductList">
+                <span class="glyphicon glyphicon-menu-left"></span> Back
+            </button>
+        </div>
+
+}
+
+@code {
+
+
+}

@@ -1,0 +1,31 @@
+﻿@page "/timer"
+@rendermode InteractiveServer
+
+<h1>@randomNumber</h1>
+<h1>@timeToDisplay</h1>
+
+@using System.Timers
+@code {
+    Timer timer = new Timer(100);//when this iterates 10 is one second
+    int randomNumber = Random.Shared.Next();
+    int tenthsOfSecondsElapsed = 0;
+    string timeToDisplay = "";
+
+    protected override void OnInitialized()
+    {
+        timer.Elapsed += Timer_Elapsed;
+        timer.Start();
+    }
+
+    private void Timer_Elapsed(object? source, ElapsedEventArgs e)
+    {
+        InvokeAsync(() =>
+        {
+            tenthsOfSecondsElapsed++;
+            timeToDisplay = (tenthsOfSecondsElapsed / 10).ToString() + "." + (tenthsOfSecondsElapsed % 10).ToString() + " seconds";
+            randomNumber = Random.Shared.Next();
+            Console.WriteLine(randomNumber);
+            StateHasChanged();
+        });
+    }
+}

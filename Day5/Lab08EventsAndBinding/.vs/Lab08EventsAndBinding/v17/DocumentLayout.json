@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab08EventsAndBinding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab08eventsandbinding\\lab08eventsandbinding\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|solutionrelative:lab08eventsandbinding\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab08eventsandbinding\\lab08eventsandbinding\\components\\pages\\rating.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|solutionrelative:lab08eventsandbinding\\components\\pages\\rating.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab08eventsandbinding\\lab08eventsandbinding\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|solutionrelative:lab08eventsandbinding\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7D9A92C-7FB3-4A25-81D2-D32DEEE8140D}|Lab08EventsAndBinding\\Lab08EventsAndBinding.csproj|c:\\livesessionkoenig\\klinecustom02\\kline-batch2\\day5\\lab08eventsandbinding\\lab08eventsandbinding\\components\\pages\\binding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Pages\\Binding.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:58:24.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:58:24.906Z"
             },
             {
               "$type": "Document",
@@ -79,31 +78,30 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:58:22.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:58:22.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab08EventsAndBinding\\Lab08EventsAndBinding\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Lab08EventsAndBinding\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab08EventsAndBinding\\Lab08EventsAndBinding\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-28T08:51:11.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Rating.razor",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab08EventsAndBinding\\Lab08EventsAndBinding\\Components\\Pages\\Rating.razor",
               "RelativeDocumentMoniker": "Lab08EventsAndBinding\\Components\\Pages\\Rating.razor",
               "ToolTip": "C:\\LiveSessionKoenig\\KlineCustom02\\kline-batch2\\Day5\\Lab08EventsAndBinding\\Lab08EventsAndBinding\\Components\\Pages\\Rating.razor",
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Pages\\Rating.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-28T08:49:06.555Z",
               "EditorCaption": ""
@@ -118,8 +116,7 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:43:14.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:43:14.197Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:43:09.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:43:09.569Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Components\\App.razor",
               "ViewState": "AgIAAAkAAAAAAAAAAAA3wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T08:31:54.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:31:54.741Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,17 @@
               "RelativeToolTip": "Lab08EventsAndBinding\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:31:33.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T08:31:33.333Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

@@ -1,0 +1,25 @@
+﻿
+<div style="width:@(17 * StarsCount)px;overflow:hidden" @onmouseover="HandleMouseEvent">
+    <div style="display:flex; flex-direction:row; font-size:17px;" >
+        <span class="glyphicon glyphicon-star"></span>
+        <span class="glyphicon glyphicon-star"></span>
+        <span class="glyphicon glyphicon-star"></span>
+        <span class="glyphicon glyphicon-star"></span>
+        <span class="glyphicon glyphicon-star"></span>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public double StarsCount { get; set; }
+
+    [Parameter]
+    public EventCallback<double> OnHover { get; set; }
+
+    private void HandleMouseEvent()
+    {
+        OnHover.InvokeAsync(StarsCount);
+    }
+
+}

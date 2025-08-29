@@ -1,0 +1,32 @@
+﻿@page "/"
+@using System.Timers
+@rendermode InteractiveServer
+<PageTitle>Home</PageTitle>
+
+<h1>@random</h1>
+<h2>@DateTime.Now.ToString()</h2>
+
+
+@code {
+    int random = Random.Shared.Next();
+    Timer timer = new Timer(1000);//separate thread
+
+    protected override void OnInitialized()
+    {
+        timer.Elapsed += TimerCallBack;
+        timer.Start();
+    }
+
+    private void TimerCallBack(object? sender, ElapsedEventArgs e)
+    {
+        InvokeAsync(() =>
+        {
+            random = Random.Shared.Next();
+            Console.WriteLine("timer called " + DateTime.Now.ToString());
+            StateHasChanged();
+        });
+      
+    }
+
+
+}

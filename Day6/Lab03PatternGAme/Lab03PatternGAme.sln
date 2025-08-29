@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03PatternGAme", "Lab03PatternGAme\Lab03PatternGAme\Lab03PatternGAme.csproj", "{B06810CB-1F93-4426-B2B2-5BE25A250F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03PatternGAme.Client", "Lab03PatternGAme\Lab03PatternGAme.Client\Lab03PatternGAme.Client.csproj", "{DA6197B3-216B-4A3F-B989-DA3FCE31AE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06810CB-1F93-4426-B2B2-5BE25A250F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06810CB-1F93-4426-B2B2-5BE25A250F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06810CB-1F93-4426-B2B2-5BE25A250F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06810CB-1F93-4426-B2B2-5BE25A250F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6197B3-216B-4A3F-B989-DA3FCE31AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6197B3-216B-4A3F-B989-DA3FCE31AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6197B3-216B-4A3F-B989-DA3FCE31AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6197B3-216B-4A3F-B989-DA3FCE31AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BE4441-3E72-4E9D-A88F-177F32D281B8}
+	EndGlobalSection
+EndGlobal
